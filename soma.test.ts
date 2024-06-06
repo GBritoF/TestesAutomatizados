@@ -1,4 +1,4 @@
-const soma = require('./soma')
+import soma from './soma'
 
 describe('Teste soma', () => {
     test('verificar soma', () => {
